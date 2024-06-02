@@ -1,1 +1,40 @@
 
+# WebStorm files and folders
+
+# Project configuration
+.idea/
+
+# File-based project format
+*.iws
+
+# User-specific stuff
+*.iml
+*.ipr
+
+# Logs
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/vcs.xml
+
+# JetBrains IDEs
+.idea/**/shelf/
+
+# Node modules (if using Node.js projects)
+node_modules/
+
+# Local environment configuration
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/**/modules.xml
+.idea/**/riderModule.iml
+.idea/**/runConfigurations.xml
+.idea/**/contentModel.xml
+.idea/**/codeStyles/
+.idea/**/externalDependencies.xml
